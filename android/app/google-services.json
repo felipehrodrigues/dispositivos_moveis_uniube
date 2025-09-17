@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815041198538",
+    "project_id": "gerenciador-de-tarefas-59f3a",
+    "storage_bucket": "gerenciador-de-tarefas-59f3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815041198538:android:aa898326b3b77ac2f0b733",
+        "android_client_info": {
+          "package_name": "com.example.gerenciador_tarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqNMPTU8Tre0yIhCLqIyuIQ4qWzxC6sWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
