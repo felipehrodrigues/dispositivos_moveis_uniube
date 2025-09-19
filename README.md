@@ -5,11 +5,12 @@ Aplicativo desenvolvido em **Flutter** com integração ao **Firebase**, permiti
 Este projeto foi desenvolvido como parte da disciplina **Desenvolvimento para Dispositivos Móveis**, do curso de **Análise e Desenvolvimento de Sistemas** da **Uniube**.  
 
 ## Imagens do Projeto
-![Tela de Cadastro](./TELA DE CADASTRO.PNG)
-![Tela de Login](./tela inicial.PNG)
-![Tela Adição de Tarefas](./TELA DE ADIÇÃO DE TAREFAS.PNG)
-![Tela de Tarefas Adicionadas](./TAREFAS ADICIONADAS.PNG)
-![Tela de Tarefas de outros dias](./MOSTRANDO TAREFAS DE OUTRO DIA.PNG)
+![Tela de Cadastro](./cadastro.png)
+![Tela de Login](./login.png)
+![Tela Inicial](./inicio.png)
+![Tela Adição de Tarefas](./adicao_tarefas.png)
+![Tela de Tarefas Adicionadas](./adicionadas.png)
+![Tela de Tarefas de outros dias](./tarefas_dias.png) 
 
 ## 📱 Funcionalidades  
 
