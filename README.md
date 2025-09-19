@@ -48,6 +48,6 @@ lib/
 ├── home_page.dart # Tela principal (tarefas)
 └── firebase_options.dart # Configuração Firebase
 
-Projeto desenvolvido por Felipe Rodrigues ✨
+Projeto desenvolvido por Felipe Rodrigues
 
 
